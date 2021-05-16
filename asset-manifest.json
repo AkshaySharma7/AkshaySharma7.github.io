@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.3b903044.chunk.css",
-    "main.js": "./static/js/main.d8d329da.chunk.js",
-    "main.js.map": "./static/js/main.d8d329da.chunk.js.map",
+    "main.css": "./static/css/main.69f51587.chunk.css",
+    "main.js": "./static/js/main.3d110c50.chunk.js",
+    "main.js.map": "./static/js/main.3d110c50.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
     "static/js/2.f9f828eb.chunk.js": "./static/js/2.f9f828eb.chunk.js",
     "static/js/2.f9f828eb.chunk.js.map": "./static/js/2.f9f828eb.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.93deb7d046cbeb1ce61cd22ddbc701ed.js": "./precache-manifest.93deb7d046cbeb1ce61cd22ddbc701ed.js",
+    "precache-manifest.3b1d4924840f3d03acfe77b614f5856c.js": "./precache-manifest.3b1d4924840f3d03acfe77b614f5856c.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.3b903044.chunk.css.map": "./static/css/main.3b903044.chunk.css.map",
+    "static/css/main.69f51587.chunk.css.map": "./static/css/main.69f51587.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Annamalai_University_logo.png": "./static/media/Annamalai_University_logo.bed28273.png",
     "static/media/Neo4j-logo-color.svg": "./static/media/Neo4j-logo-color.0dbde25b.svg",
@@ -60,7 +60,7 @@
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
     "static/js/2.f9f828eb.chunk.js",
-    "static/css/main.3b903044.chunk.css",
-    "static/js/main.d8d329da.chunk.js"
+    "static/css/main.69f51587.chunk.css",
+    "static/js/main.3d110c50.chunk.js"
   ]
 }
