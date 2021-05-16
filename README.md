@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to Akshay Sharma's portfolio! </h1> 
 
 <p align="center"> 
-    <a href="https://akshaysharma7.github.io" target="_blank">
+    <a href="https://akshaysharma7.github.io" target="blank">
   </a>
 </p>
 
